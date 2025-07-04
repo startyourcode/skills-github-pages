@@ -1,5 +1,5 @@
 ---
-title: "About Swift"
+title: "About Swift Language"
 date: 2025-07-04
 ---
 
